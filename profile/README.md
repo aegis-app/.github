@@ -3,7 +3,7 @@
 **AEGIS（イージス）** は、地震・津波・天気の情報をひと目で把握できる防災アシスタントです。
 この組織は AEGIS の各実装をまとめた開発組織です。
 
-- 🌐 Web 版: https://bosai.vercel.app（[mabu-works](https://github.com/mabu-works) で公開）
+- 🌐 Web 版: [bosai.vercel.app](https://bosai.vercel.app)（[mabu-works](https://github.com/mabu-works) で公開）
 - 👤 開発者: [@i-mabu](https://github.com/i-mabu)
 - 🤖 Bot の組織: [@mabu-bots](https://github.com/mabu-bots)
 
